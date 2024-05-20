@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eXtPYpgo+fBDq+uD+RKDpe8hal7yw5N6Qny98tNk4YNzXKnAT2pDnZ11KUMCWfcyjeUqIL1i1LjAZEZJC7i/Ow==",
+  "dgSpecHash": "s6zYu9ocZWLWrGfBTyD1PJAGKArjl84csAc1nbKp8EzQEVJJYusuIWVJdiuisirzze/OALcUi+/K2zufSlbI5A==",
   "success": true,
-  "projectFilePath": "D:\\yusgu\\Documents\\Redes\\Proyecto\\TeamHubServiceUser\\TeamHubServiceUser.csproj",
+  "projectFilePath": "C:\\Users\\yusgu\\Documents\\UV\\6to Semestre\\SRED\\ProyectoFinalServer\\TeamHubServiceUser\\TeamHubServiceUser.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yusgu\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\yusgu\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

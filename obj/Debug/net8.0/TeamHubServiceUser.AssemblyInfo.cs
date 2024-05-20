@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeamHubServiceUser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+257ad7efe737c31efb17f3c1bd56e244ebbca250")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caa13183b777fdf05088fc7949f61e899d99de58")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeamHubServiceUser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeamHubServiceUser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

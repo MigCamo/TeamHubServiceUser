@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\yusgu\\Documents\\Redes\\Proyecto\\TeamHubServiceUser\\TeamHubServiceUser.csproj": {}
+    "C:\\Users\\yusgu\\Documents\\UV\\6to Semestre\\SRED\\ProyectoFinalServer\\TeamHubServiceUser\\TeamHubServiceUser.csproj": {}
   },
   "projects": {
-    "D:\\yusgu\\Documents\\Redes\\Proyecto\\TeamHubServiceUser\\TeamHubServiceUser.csproj": {
+    "C:\\Users\\yusgu\\Documents\\UV\\6to Semestre\\SRED\\ProyectoFinalServer\\TeamHubServiceUser\\TeamHubServiceUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\yusgu\\Documents\\Redes\\Proyecto\\TeamHubServiceUser\\TeamHubServiceUser.csproj",
+        "projectUniqueName": "C:\\Users\\yusgu\\Documents\\UV\\6to Semestre\\SRED\\ProyectoFinalServer\\TeamHubServiceUser\\TeamHubServiceUser.csproj",
         "projectName": "TeamHubServiceUser",
-        "projectPath": "D:\\yusgu\\Documents\\Redes\\Proyecto\\TeamHubServiceUser\\TeamHubServiceUser.csproj",
+        "projectPath": "C:\\Users\\yusgu\\Documents\\UV\\6to Semestre\\SRED\\ProyectoFinalServer\\TeamHubServiceUser\\TeamHubServiceUser.csproj",
         "packagesPath": "C:\\Users\\yusgu\\.nuget\\packages\\",
-        "outputPath": "D:\\yusgu\\Documents\\Redes\\Proyecto\\TeamHubServiceUser\\obj\\",
+        "outputPath": "C:\\Users\\yusgu\\Documents\\UV\\6to Semestre\\SRED\\ProyectoFinalServer\\TeamHubServiceUser\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\yusgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -97,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

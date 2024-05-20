@@ -11,11 +11,11 @@ public partial class document
 
     public string? Path { get; set; }
 
-    public int Extension { get; set; }
+    public int? Extension { get; set; }
 
-    public int? IdProject { get; set; }
+    public int IdProject { get; set; }
 
-    public virtual project? IdProjectNavigation { get; set; }
+    public virtual extension? ExtensionNavigation { get; set; }
 
-    public virtual ICollection<projectdocument> projectdocument { get; set; } = new List<projectdocument>();
+    public virtual project IdProjectNavigation { get; set; } = null!;
 }

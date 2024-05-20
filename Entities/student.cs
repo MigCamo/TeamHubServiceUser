@@ -23,5 +23,7 @@ public partial class student
 
     public virtual ICollection<projectstudent> projectstudent { get; set; } = new List<projectstudent>();
 
+    public virtual ICollection<studentsession> studentsession { get; set; } = new List<studentsession>();
+
     public virtual ICollection<taskstudent> taskstudent { get; set; } = new List<taskstudent>();
 }
