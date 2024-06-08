@@ -85,7 +85,6 @@ public class UserService : IUserService
                 dbStudent.SurName = editStudent.SurName;
                 dbStudent.Email = editStudent.Email;
                 dbStudent.Password = editStudent.Password;
-                dbStudent.ProDocumentImage = editStudent.ProDocumentImage;
                 dbContext.student.Update(dbStudent);
                 result = dbContext.SaveChanges();
             }

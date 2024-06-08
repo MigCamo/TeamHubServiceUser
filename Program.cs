@@ -43,7 +43,7 @@ if (app.Environment.IsDevelopment())
 app.UseCors("AllowAllOrigins");
 app.UseHttpsRedirection();
 
-app.MapPost("/TeamHub/Users/", (IUserService userService, StudentDTO newStudent) => 
+app.MapPost("/TeamHub/Users", (IUserService userService, StudentDTO newStudent) => 
 {
     return userService.AddStudent(newStudent);
 })
@@ -58,7 +58,7 @@ app.MapPost("/TeamHub/Users/Delete", (IUserService userService, int idDeleteStud
 .WithName("DeleteUser")
 .WithOpenApi();
 
-app.MapPost("/TeamHub/Users/Edit", (IUserService userService, StudentDTO editStudent) => 
+app.MapPut("/TeamHub/Users/Edit", (IUserService userService, StudentDTO editStudent) => 
 {
     return userService.EditStudent(editStudent);
 })
